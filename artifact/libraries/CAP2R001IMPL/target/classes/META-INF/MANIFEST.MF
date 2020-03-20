@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1584738987464
+Build-Jdk: 1.8.0_91
+Built-By: kluna
+Bundle-Category: library
+Bundle-Description: puntos google
+Bundle-ManifestVersion: 2
+Bundle-Name: CAP2R001IMPL
+Bundle-SymbolicName: CAP2R001IMPL-0.0.0
+Bundle-Version: 0.0.0
+Created-By: Apache Maven Bundle Plugin
+Import-Package: com.bbva.cap2.dto.dto;version="0.0",com.bbva.cap2.lib.r0
+ 01;version="0.0",com.bbva.elara.aspect;version="0.0";resolution:=option
+ al,com.bbva.elara.configuration.manager.application;version="0.0";resol
+ ution:=optional,com.bbva.elara.configuration.manager.application.factor
+ y;version="0.0";resolution:=optional,com.bbva.elara.library;version="0.
+ 0";resolution:=optional,org.aopalliance.aop;version="0.0";resolution:=o
+ ptional,org.codehaus.jackson;version="0.0",org.codehaus.jackson.map;ver
+ sion="0.0",org.osgi.framework;version="0.0";resolution:=optional,org.sl
+ f4j;version="0.0",org.springframework.aop;version="0.0";resolution:=opt
+ ional,org.springframework.aop.framework;version="0.0";resolution:=optio
+ nal,org.springframework.web.client;version="0.0",spring;version="0.0";r
+ esolution:=optional
+Tool: Bnd-1.50.0
